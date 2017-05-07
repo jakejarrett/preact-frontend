@@ -1,0 +1,22 @@
+@import '~style/helpers';
+
+.portfolioHeader {
+  padding: 20px 0 30px 20px;
+  margin: 0;
+  color: #111;
+
+  small {
+	font-size: 1rem;
+	opacity: 0.7;
+  }
+}
+
+.portfolio {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 30px;
+}
+

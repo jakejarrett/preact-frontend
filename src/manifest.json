@@ -1,0 +1,19 @@
+{
+  "name": "Jake Jarrett",
+  "short_name": "Jake Jarrett",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8f9fa",
+  "theme_color": "#fcc2d7",
+  "icons": [{
+    "src": "./assets/icons/logo_256.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  },
+  {
+    "src": "./assets/icons/logo_256.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }]
+}
