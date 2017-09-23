@@ -1,7 +1,7 @@
 import { h, Component } from 'preact';
 import style from './style';
 
-class PortfolioItem extends Component {
+export default class PortfolioItem extends Component {
 
 	render() {
 		const props = this.props;
@@ -24,5 +24,3 @@ class PortfolioItem extends Component {
 		);
 	}
 }
-
-export default PortfolioItem;
